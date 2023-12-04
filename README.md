@@ -22,6 +22,6 @@ This is an application on the smartphone and use Android system
 ### Screen detail
 ![image](https://github.com/thangtran180492/android-studio-application-animal/blob/main/photo/screen%203.png)
 
-<bold>Thanks a lot,</bold>
+<bold>Thanks...</bold>
 <br/>Project personal<br/>
 <b>Viet Hung (Sai)</b>
